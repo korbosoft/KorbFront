@@ -63,8 +63,8 @@ typedef void (*entrypoint) (void);
 #define PATH_COUNT 2
 
 static const char* const PATHS[PATH_COUNT] = {
-	"/apps/korbodonut/boot.dol",
-	"/apps/korbodonut/boot.elf"
+	"/apps/korbo-donut/boot.dol",
+	"/apps/korbo-donut/boot.elf"
 };
 
 void SystemMenu()
